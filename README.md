@@ -25,3 +25,16 @@
  <img src="https://img.shields.io/badge/Resume-0A101F?style=for-the-badge&logo=googledocs&logoColor=22D3EE&labelColor=0A101F" alt="Resume" />
 </a>
 &nbsp;&nbsp;
+<div align="center">
+<a href="https://www.linkedin.com/in/anirudhnss/">
+ <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:nanirudh01@gmail.com">
+ <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://portfolio-eight-lime-95.vercel.app/">
+ <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio" />
+</a>
+</div>
