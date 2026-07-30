@@ -21,3 +21,7 @@
  src="https://raw.githubusercontent.com/anirudhnss/anirudhnss/output/github-snake.svg" />
 </picture>
 </div>
+<a href="https://github.com/anirudhnss/anirudhnss/blob/main/Anirudh_Resume.pdf">
+ <img src="https://img.shields.io/badge/Resume-0A101F?style=for-the-badge&logo=googledocs&logoColor=22D3EE&labelColor=0A101F" alt="Resume" />
+</a>
+&nbsp;&nbsp;
