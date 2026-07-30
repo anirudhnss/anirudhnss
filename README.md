@@ -38,3 +38,6 @@
  <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio" />
 </a>
 </div>
+<a href="https://github.com/anirudhnss/anirudhnss/blob/main/Anirudh_Resume.pdf">
+ <img src="https://img.shields.io/badge/Resume-0A101F?style=for-the-badge&logo=googledocs&logoColor=22D3EE&labelColor=0A101F" alt="Resume" />
+</a>
